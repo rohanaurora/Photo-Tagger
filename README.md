@@ -1,8 +1,7 @@
-# Hootsuite iOS Technical Challenge
+## Photo Tagger
 
-## Introduction
 
-In this challenge you are going extend an existing application. This application lets users select an image associated with a word. It may not have many real-world applications but it does provide some interesting challenges.
+This was Hootsuite's iOS Technical Challenge. This application lets users select an image associated with a word. 
 
 ![Objective](./iPhone%208.png)
 
@@ -12,12 +11,6 @@ Your task is to implement a couple of features:
   - Select a new word at random from the set of possible words by pressing the refresh button. Use a different word than the one currently displayed. For example, if you were showing Dog, don't show Dog the next time, but afterwards is fine.
   - Show all images that match the display tag.
 
-### Keep in mind
-
-- Treat this as you would treat any day-to-day task at work. This includes committing to git (locally) and testing where appropriate.
-- Worry only about iPhone in portrait mode.
-- Use your best coding practices, but done is better than perfect.
-- iPhone 8.png is the UI of the project. (UI doesn't need to be pixel perfect)
 
 ## Submit
 
